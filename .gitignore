@@ -2,3 +2,4 @@ _site/
 _github_pages/
 .sass-cache/
 .jekyll-metadata
+.jekyll-cache
