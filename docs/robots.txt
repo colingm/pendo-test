@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://colingm.github.io/sitemap.xml
